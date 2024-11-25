@@ -1,5 +1,5 @@
 body {
-    font-family: 'Open Sans', sans-serif;
+    font-family: 'Montserrat', sans-serif;
     line-height: 1.5;
     font-weight: 400;
     margin: 0;
@@ -17,8 +17,8 @@ html,
     height: 100%;
 }
 
-._container {
-    max-width: 1230px;
+.container {
+    max-width: 1280px;
     margin-right: auto;
     margin-left: auto;
     padding-left: 15px;
